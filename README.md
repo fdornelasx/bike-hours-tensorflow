@@ -2,7 +2,7 @@
 
 ### In this project you'll be able to predict the bike demand for each hour.
 
-##Requirements
+## Requirements
 
 tensorflow
 pandas
@@ -10,7 +10,7 @@ scikit-learn
 matplotlib
 
 
-##How to run
+## How to run
 
 Once you have clone the project, go to its directory and create a python environment, then run the command on your terminal:
 ```
@@ -27,7 +27,7 @@ the trained model will be saved on the root directory.
 
 
 
-###Coments
+### Comments
 
 This code was a test for a job application, so the solution is not the better, but you can make improvements and submit pull requests, if you want.
 
